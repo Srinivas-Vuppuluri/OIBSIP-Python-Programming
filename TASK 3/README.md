@@ -12,7 +12,7 @@ Generate secure and random passwords with this Python script.
 Clone the repository:
 
    ```bash
-   github link : 
+   github link : https://github.com/Srinivas-Vuppuluri/OIBSIP-Python-Programming/tree/main/TASK%203
 
 ## EXAMPLE
 How many passwords do you want to generate? 3
